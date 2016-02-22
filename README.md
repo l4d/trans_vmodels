@@ -55,3 +55,9 @@
  > Line **26810**, replace **v_hunter_hands** with **v_hunter_hand5**
 
 <sub>Survivor and Smoker arms are missing. These two v_models share the same texture with the world models and don't provide a v_model vmt to bypass. This makes any changes made to the v_models carry over to the w_models and I won't provide it. </sub>
+
+<sub> 75% translucent a64: Later</sub>
+
+<sub> 50% translucent a128: Completed</sub>
+
+<sub> 25% translucent a191: Later</sub>
