@@ -1,4 +1,5 @@
-**Translucent ViewModels** by jeffrey 
+[**Translucent ViewModels**](https://drive.google.com/file/d/0B15LgQ1PwzQpSmk5VmNWTDRDaWs/view?usp=sharing) by jeffrey 
+
 
 >  **If you don't have any installed mods that modify the pak01_dir.vpk, follow these steps:**
 
