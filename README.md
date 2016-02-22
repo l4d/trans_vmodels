@@ -1,6 +1,6 @@
 [**Translucent ViewModels Skins**](https://drive.google.com/file/d/0B15LgQ1PwzQpSmk5VmNWTDRDaWs/view?usp=sharing) by jeffrey 
 
-<sub>Click the link above ^ to view an example image</sub>
+<sub>Click the link above to view an example image</sub>
 
 
 >  **If you don't have any installed mods that modify the pak01_dir.vpk, follow these steps:**
