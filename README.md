@@ -1,6 +1,6 @@
 **Translucent ViewModels** by jeffrey 
 
-- **If you don't have any installed mods that modify the pak01_dir.vpk, follow these steps:**
+**If you don't have any installed mods that modify the pak01_dir.vpk, follow these steps:**
 
 1. Download the [zip](https://github.com/l4d/trans_vmodels/archive/master.zip)
 
@@ -16,7 +16,7 @@
 	 
 	 **x32** C:\Program Files\Steam\steamapps\common\left 4 dead\left 4 dead
 
-- **If you have a mod(s) installed that modifies the pak01_dir.vpk, follow these steps:**
+**If you have a mod(s) installed that modifies the pak01_dir.vpk, follow these steps:**
 
 1. Download the [zip](https://github.com/l4d/trans_vmodels/archive/master.zip)
 
