@@ -4,7 +4,7 @@
 
 1. Download the [zip](https://github.com/l4d/trans_vmodels/archive/master.zip)
 
-2. Extract **trans_vmodel_50.vpk** to your addons folder:
+2. Extract **trans_vmodels_50.vpk** to your addons folder:
 
 	 **x64** C:\Program Files (x86)\Steam\steamapps\common\left 4 dead\left 4 dead\addons
 	 
@@ -20,7 +20,7 @@
 
 1. Download the [zip](https://github.com/l4d/trans_vmodels/archive/master.zip)
 
-2. Extract **trans_vmodel_50.vpk** to your addons folder:
+2. Extract **trans_vmodels_50.vpk** to your addons folder:
 
 	 **x64** C:\Program Files (x86)\Steam\steamapps\common\left 4 dead\left 4 dead\addons
 	 
