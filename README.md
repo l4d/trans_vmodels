@@ -1,7 +1,5 @@
 **Translucent ViewModels** by jeffrey 
 
-Installation Instructions
-
 **If you don't have any installed mods that modify the pak01_dir.vpk, follow these steps:**
 
 1. Download the [zip](https://github.com/l4d/trans_vmodels/archive/master.zip)
