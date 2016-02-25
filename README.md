@@ -1,4 +1,4 @@
-**Translucent ViewModel Skins** by jeffrey 
+**Translucent Viewmodel Skins** by jeffrey 
 
 **[Download](https://github.com/l4d/trans_vmodels/archive/master.zip)         [Screenshots](https://github.com/l4d/trans_vmodels/wiki/Screenshots)          [Installation](https://github.com/l4d/trans_vmodels/wiki/Installation)          **
 
