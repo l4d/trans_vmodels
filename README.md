@@ -17,5 +17,11 @@ Replaces the viewmodels with translucent versions.  Modifies the following v_mod
  - Hunter Arms
  - Boomer Arms
 
- 
+[L4D FPS Boost Guide]
+(http://steamcommunity.com/sharedfiles/filedetails/?id=652707353)
 
+[L4D Hidden Console Variables Guide]
+(http://steamcommunity.com/sharedfiles/filedetails/?id=564185677) 
+
+[L4D HUD Project Repo]
+(https://github.com/l4d/hud)
