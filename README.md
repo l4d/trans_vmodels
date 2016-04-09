@@ -1,5 +1,5 @@
-**Translucent Viewmodel Skins** by jeffrey 
-
+Translucent Viewmodels
+-------------
 **[Download](https://github.com/l4d/trans_vmodels/archive/master.zip)         [Screenshots](https://github.com/l4d/trans_vmodels/wiki/Screenshots)          [Installation](https://github.com/l4d/trans_vmodels/wiki/Installation)          **
 
 Replaces the viewmodels with translucent versions.  Modifies the following v_models:
@@ -17,11 +17,8 @@ Replaces the viewmodels with translucent versions.  Modifies the following v_mod
  - Hunter Arms
  - Boomer Arms
 
-[L4D FPS Boost Guide]
-(http://steamcommunity.com/sharedfiles/filedetails/?id=652707353)
-
-[L4D Hidden Console Variables Guide]
-(http://steamcommunity.com/sharedfiles/filedetails/?id=564185677) 
-
-[L4D HUD Project Repo]
-(https://github.com/l4d/hud)
+Related L4D Stuff
+------------------
+- [L4D Hidden Console Variables Guide](http://steamcommunity.com/sharedfiles/filedetails/?id=564185677)
+- [L4D HUD Project Repo](https://github.com/l4d/particle_fix)
+- [L4D Black Particle Fix Repo](https://github.com/l4d/particle_fix)
