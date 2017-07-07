@@ -1,6 +1,6 @@
 Translucent Viewmodels
 -------------
-**[Download & Installation](https://github.com/l4d/trans_vmodels/wiki/Installation)         [Screenshots](https://github.com/l4d/trans_vmodels/wiki/Screenshots)
+**[Download & Installation](https://github.com/l4d/trans_vmodels/wiki/Installation)         [Screenshots](https://github.com/l4d/trans_vmodels/wiki/Screenshots)**
 
 Replaces the viewmodels with translucent versions.  Modifies the following v_models:
 
